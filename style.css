@@ -25,9 +25,9 @@ body {
  }
 
  #footer{
-    width: 100%;
+    width: 230%;
    height: 50px;
-   position: absolute;
+   position: 100px;
    bottom: 0;
    line-height: 50px;
    background-color: burlywood;
@@ -36,7 +36,7 @@ body {
  }
 
 #header {
-    width: 100%;
+    width: 230%;
     height: 50px;
     line-height: 50px;
     background-color: burlywood;
